@@ -71,21 +71,22 @@ End-to-end automation of liquidity operations — deposit, rebalance, and withdr
 
 | Pool | APY | TVL |
 |---|---|---|
-| ETH-USDC | 15.2% | $5,000,000 |
-| BTC-ETH | 12.8% | $8,000,000 |
-| USDC-DAI | 8.5% | $3,000,000 |
-| SOL-USDT | 18.3% | $2,500,000 |
-| AVAX-USDC | 16.7% | $1,800,000 |
-| MATIC-ETH | 14.2% | $4,200,000 |
+| ETH-USDC | 15.2% | $5,0,000 |
+| BTC-ETH | 12.8% | $8,0,000 |
+| USDC-DAI | 8.5% | $3,0,000 |
+| SOL-USDT | 18.3% | $2,0,000 |
+| AVAX-USDC | 16.7% | $1,8,000 |
+| MATIC-ETH | 14.2% | $4,2,000 |
 
 ---
 
 ## Legal & Usage
 
-This project is **proprietary software** developed and exclusively maintained by **projectAdnan**.
+This project is **project software** developed and exclusively maintained by **projectAdnan**.
 
 > ⚠️ **Update requests will not be entertained.**
 > 🚫 **External contributions are not accepted.**
+> ❌**Do NOT star this project,I'm not worth it.**
 
 ---
 
